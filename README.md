@@ -17,5 +17,5 @@
 * https://momentjs.com/
 
 ## Links
-https://sahanamai.github.io/third-party-api-homework/
-https://github.com/sahanamai/third-party-api-homework
+* https://sahanamai.github.io/third-party-api-homework/
+* https://github.com/sahanamai/third-party-api-homework
