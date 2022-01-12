@@ -21,4 +21,5 @@
 * https://github.com/sahanamai/third-party-api-homework
 
 ## Screenshot
+![day scheduler](https://user-images.githubusercontent.com/41078587/149058198-17329128-256a-43d4-add5-96cd19a8ff6b.png)
 
